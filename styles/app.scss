@@ -1,0 +1,32 @@
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "base/base";
+
+/* Layout Elements */
+
+.header {
+  @include wrapper;
+}
+
+.content {
+  @include wrapper;
+}
+
+.footer {
+  margin: 20px;
+  @include wrapper;
+}
+
+@include media($phablet) {
+  .header {
+    font-size: 1.2em;
+  }
+
+  .content {
+    font-size: 0.8em;
+  }
+
+  .footer {
+    font-size: 1em;
+  }
+}
