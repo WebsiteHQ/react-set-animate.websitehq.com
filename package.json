@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/WebsiteHQ/react-set-animate.websitehq.com.git"
+    "url": "https://github.com/petermoresi/react-set-animate.websitehq.com.git"
   },
   "keywords": [
     "react",
@@ -24,12 +24,12 @@
     "babel",
     "react-transform"
   ],
-  "author": "Peter Moresi <peter@websitehq.com>",
+  "author": "Peter Moresi <peter.moresi@gmail.com>",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/WebsiteHQ/react-set-animate.websitehq.com/issues"
+    "url": "https://github.com/WebsiteHQ/react-set-animate.petermoresi.com/issues"
   },
-  "homepage": "https://github.com/WebsiteHQ/react-set-animate.websitehq.com",
+  "homepage": "https://github.com/WebsiteHQ/react-set-animate.petermoresi.com",
   "devDependencies": {
     "babel-core": "^6.14.0",
     "babel-eslint": "^5.0.4",
