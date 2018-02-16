@@ -39,15 +39,19 @@
     "babel-preset-stage-0": "^6.16.0"
   },
   "dependencies": {
-    "functionfoundry": "^0.11.0",
-    "pure-flux": "^1.1.0",
-    "pure-flux-router": "1.0.1",
+    "css-loader": "^0.28.9",
+    "formula": "^2.3.3",
+    "node-sass": "^4.7.2",
     "react": "^15.3.2",
     "react-addons-pure-render-mixin": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-fontawesome": "^1.2.0",
     "react-modal": "^1.5.2",
     "react-remarkable": "^1.1.1",
-    "react-set-animate": "0.0.15"
+    "react-set-animate": "0.0.15",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.20.2",
+    "xan": "^0.26.0",
+    "xander": "^0.10.0"
   }
 }
